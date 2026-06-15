@@ -1,1 +1,1 @@
-# tts-mos-test
+# TTS samples
